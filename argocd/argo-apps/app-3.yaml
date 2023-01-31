@@ -12,7 +12,7 @@ spec:
   project: default
   source:
     path: argocd/my-apps/my-app3
-    repoURL: https://github.com/mmanirmd/argocd-app.git
+    repoURL: https://github.com/mmanirmd/argocd-app2.git
     targetRevision: HEAD
   syncPolicy:
      automated:
